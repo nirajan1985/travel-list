@@ -15,7 +15,7 @@ export default function Form({ addNewItem }) {
   }
   return (
     <form className="add-form" onSubmit={submitHandle}>
-      <h3>What do you need for your trip 😍?</h3>
+      <h3>What do you need for your trip? 😍</h3>
 
       <select
         value={quantity}

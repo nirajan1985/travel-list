@@ -49,8 +49,10 @@ h1 {
   .add-form {
     display: flex;
     flex-direction: column;
-
     row-gap: 1rem;
+  }
+  .actions {
+    display: flex;
   }
 }
 
